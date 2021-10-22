@@ -4,7 +4,7 @@ The present project involves the developing of a basic web page. The main object
 
 ## Preview of the project
 
-<p align="center"><img width="100%" src="/assets/img/meet_coffee.png"></p>
+<p align="center"><img width="100%" src="/assets/img/meet.gif"></p>
 
 ## Website
 
